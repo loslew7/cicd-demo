@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.git
+.github
+.venv
+test_*.py
+requirements-dev.txt
+README.md
